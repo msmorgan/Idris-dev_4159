@@ -1,6 +1,6 @@
 module MonadLike
 
-import InfUtil
+import public InfUtil
 
 %default total
 
